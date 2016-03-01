@@ -1,0 +1,325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.8339032,
+          -87.8725813
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "city": "Chicago",
+        "popularity": 1453,
+        "company": "Alcatel-Lucent"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7578149,
+          -122.5078113
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "city": "San Francisco",
+        "popularity": 405,
+        "company": "Google"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.70583,
+          -74.2588693
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "city": "New York City",
+        "popularity": 173,
+        "company": "IBM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.6149938,
+          -122.4763311
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "city": "Seattle",
+        "popularity": 148,
+        "company": "Microsoft"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8994613,
+          -77.0847778
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "city": "Washington DC",
+        "popularity": 90,
+        "company": "Accenture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.3135417,
+          -71.1975829
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "city": "Boston",
+        "popularity": 87,
+        "company": "Cisco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.0207488,
+          -118.6926008
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "city": "Los Angeles",
+        "popularity": 59,
+        "company": "Kaiser Permanente"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9707969,
+          -93.3320646
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "city": "Minneapolis",
+        "popularity": 52,
+        "company": "Medtronic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.7645183,
+          -104.9955375
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "city": "Denver",
+        "popularity": 45,
+        "company": "HP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.3528791,
+          -83.2396308
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "city": "Detroit",
+        "popularity": 44,
+        "company": "Ford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8209281,
+          -97.0122083
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "city": "Dallas",
+        "popularity": 40,
+        "company": "Capital One"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8439646,
+          -78.7854824
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "city": "Raleigh",
+        "popularity": 36,
+        "company": "SAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.7678357,
+          -84.4908153
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "city": "Atlanta",
+        "popularity": 35,
+        "company": "AT&T"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.5425909,
+          -122.7948476
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "city": "Portland",
+        "popularity": 34,
+        "company": "Intel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.824816,
+          -117.376032
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "city": "San Diego",
+        "popularity": 31,
+        "company": "Qualcomm"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3079823,
+          -97.8938282
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "city": "Austin",
+        "popularity": 28,
+        "company": "Dell"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.8174768,
+          -95.6821611
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "city": "Houston",
+        "popularity": 23,
+        "company": "GE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6056695,
+          -112.4059195
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "city": "Phoenix",
+        "popularity": 22,
+        "company": "Soulgenix"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6538196,
+          -90.3180021
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "city": "St. Louis",
+        "popularity": 22,
+        "company": "Boeing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.0851584,
+          -89.5468462
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "city": "Madison",
+        "popularity": 21,
+        "company": "Epic"
+      }
+    },
+  ]
+}
