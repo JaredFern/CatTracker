@@ -6,7 +6,7 @@ body {
     color: #5a5a5a;
     font-family: Roboto;
     margin-top: 5vh;
-    background-color: #FFf5e6;
+    background-color: #f8edff;
 
 }
 a:hover{
@@ -30,7 +30,7 @@ container p {
 }
 
 .header {
-    background-image: url("../Images/Backgrounds/SanFran.png");
+    background-image: url("../Northwestern.jpg");
     height: 100vh;
     background-size: cover;
 }

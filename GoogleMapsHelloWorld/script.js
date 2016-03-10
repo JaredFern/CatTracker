@@ -5,8 +5,14 @@ function initMap() {
         zoom: 5
     });
 
-    JSON.parse('places.json');
+    locations = JSON.parse('places.json');
 
+    for (var incident in locations) {
+      var marker = new google.maps.Marker({
+      	position: locations[incident].center,
+      	map:map
+      })
+    }
 
     //map.data.loadGeoJson('places.json');
 
