@@ -8,7 +8,7 @@ function initMap() {
     for (var i = 0; i < 20; i++) {
         var myLatLng = {lat: places[i].lat, lng: places[i].lng};
         var contentString =
-            '<div id="content">' + 'city: ' + places[i].city + '<br>'
+            '<div id="content" style="background-color: #885aa8">' + 'city: ' + places[i].city + '<br>'
             + 'company: ' + places[i].company + '<br>'
             + 'popularity: ' + places[i].popularity
             +  '</div>';

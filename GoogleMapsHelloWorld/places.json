@@ -5,7 +5,7 @@ var places = [
     "popularity": 1453,
     "company": "Alcatel-Lucent",
     "lat": 41.8339032,
-    "lng": -87.8725813
+    "lng": -87.8725813,
   },
   {
     "id": 2,
